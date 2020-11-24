@@ -1,0 +1,12 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body {
+    font-family: courier,arial,helvetica;
+    background-color: #ffffff;
+}
+body header:first-of-type {
+    background-color: aquamarine;
+}
+.right
