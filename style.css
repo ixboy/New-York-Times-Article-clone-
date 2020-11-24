@@ -6,7 +6,31 @@ body {
     font-family: courier,arial,helvetica;
     background-color: #ffffff;
 }
-body header:first-of-type {
-    background-color: aquamarine;
+.nav-bar{
+   
 }
-.right
+.container-nav {
+    width: 80%;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+    padding: 5px 0px;
+}
+.left-nav-link{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    position: relative;
+    top: -10px;
+}
+.left-nav-link:hover{
+    text-decoration: underline;
+}
+.right-nav{
+    position: relative;
+    left: 56.10%;
+}
+.center-nav{
+    position: relative;
+    left: 22%;
+}
