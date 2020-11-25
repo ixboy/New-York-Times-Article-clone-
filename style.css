@@ -72,6 +72,28 @@ nav .center-nav{
     margin-right: 16px;
 }
 article .firstSection {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    margin-bottom: 0px;
+}
+article .main {}
+article .secondSection{
+    margin: 40px auto;
+}
+article .mainDiv{
+    display: flex;
+    flex-direction: column;
     text-align: center;
-    margin-top: 200px;
+}
+article .firstSection figure {
+    /* align-self: center; */
+    max-width: 70%;
+}
+article .secondSection {
+    /* align-self: center; */
+    max-width: 70%;
 }
