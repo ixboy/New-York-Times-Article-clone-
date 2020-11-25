@@ -80,8 +80,16 @@ article .firstSection {
     margin-top: 300px;
     margin-bottom: 0px;
 }
-article .main {}
-article .secondSection{
+main .paraghs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+main .paraghs p{
+    width: 50%;
+}
+article .secondSection, article .thirdSection{
     margin: 40px auto;
 }
 article .mainDiv{
@@ -93,7 +101,11 @@ article .firstSection figure {
     /* align-self: center; */
     max-width: 70%;
 }
-article .secondSection {
+article .secondSection, article .thirdSection {
     /* align-self: center; */
     max-width: 70%;
+}
+article .thirdSection img{
+    max-width: 100%;
+    z-index: 9;
 }
