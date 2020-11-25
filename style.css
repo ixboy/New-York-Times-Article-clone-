@@ -6,31 +6,49 @@ body {
     font-family: courier,arial,helvetica;
     background-color: #ffffff;
 }
-.nav-bar{
-   
-}
 .container-nav {
-    width: 80%;
-    margin: 10px auto;
-    display: flex;
-    flex-direction: row;
-    padding: 5px 0px;
+    width: 100%;
+    background-color:#ffffff;
+    border-bottom: solid 1px #567b95;
 }
-.left-nav-link{
+nav .right-nav{
+    display: inline;
+    float: right;
+    padding: 9px;
+    margin: 0px;
+} 
+nav .left-nav a{
+    display: inline;
+    float: left;
+    padding-left: 7px;
+    margin: 5px;
+} 
+nav .left-nav a:last-of-type{
+    padding-top: 10px;
+    color: brown;
+} 
+
+nav .center-nav{
+    display: inline-block;
+    padding-top: 5px;
+    margin: 0px auto 0px 350px;
+}
+.left-nav a{
     text-decoration: none;
     color: #000;
     font-weight: bold;
-    position: relative;
-    top: -10px;
 }
+
+
+/*
 .left-nav-link:hover{
     text-decoration: underline;
 }
 .right-nav{
-    position: relative;
-    left: 56.10%;
+    float: right;;
+    right: 5px;
 }
 .center-nav{
-    position: relative;
-    left: 22%;
+    position:fixed;
+    right: 40px;
 }
