@@ -19,8 +19,7 @@ body {
 nav .right-nav{
     display: inline;
     float: right;
-    padding: 9px;
-    margin: 0px;
+    margin: 2px;
 } 
 nav .left-nav a{
     display: inline;
@@ -40,7 +39,7 @@ nav .left-nav a:last-of-type{
 nav .center-nav{
     display: inline-block;
     padding-top: 5px;
-    margin: 0px auto 0px 350px;
+    margin: 0px auto 0px 300px;
 }
 .left-nav a{
     text-decoration: none;
@@ -48,11 +47,23 @@ nav .center-nav{
     font-weight: bold;
 }
 
-
-/*
-.left-nav-link:hover{
+.left-nav a:last-of-type:hover{
     text-decoration: underline;
 }
+.right-nav button{
+    color: #ffffff;
+
+    background-color: #567b95;
+    border: 1px solid #326891;
+    border-radius: 3px;
+    padding: 11px 12px 8px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 11px;
+    letter-spacing: 0.05em;
+}
+/*
 .right-nav{
     float: right;;
     right: 5px;
