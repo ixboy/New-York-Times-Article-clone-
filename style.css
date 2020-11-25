@@ -28,7 +28,7 @@ nav .right-nav{
     display: inline;
     float: right;
     margin: 2px;
-} 
+}
 nav .left-nav a{
     display: inline;
     float: left;
@@ -130,7 +130,6 @@ article .thirdSection{
     position: relative;
 }
 article .thirdSection img{
-<<<<<<< HEAD
     max-width: 100%;
 }
 article .thirdSection div:{
@@ -157,4 +156,6 @@ article .middle-section{
     max-width: 70%;
     margin: 30px auto 30px auto;
 }
->>>>>>> 7d584f3fa116c7c13b6210be40771223a27c3f2f
+.thirdSection img{
+    width: 100%;
+}
