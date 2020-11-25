@@ -1,9 +1,14 @@
+@font-face{
+    src: url(fonts/cheltenham-normal\ bold\ italic.ttf);
+    font-family: cheltenham;
+}
+
 *{
 	margin: 0px;
 	padding: 0px;
 }
 body {
-    font-family: courier,arial,helvetica;
+    font-family: georgia,'times new roman',times,serif;
     background-color: #ffffff;
 }
 .container-nav {
@@ -25,7 +30,11 @@ nav .left-nav a{
 } 
 nav .left-nav a:last-of-type{
     padding-top: 10px;
-    color: brown;
+    color: black;
+    font-family: cheltenham, Arial, Helvetica, sans-serif
+    font-size: 14.25px;
+    text-transform: uppercase;
+    font-weight: 700;
 } 
 
 nav .center-nav{
