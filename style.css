@@ -129,7 +129,12 @@ article .secondSection, article .thirdSection {
 article .thirdSection{
     position: relative;
 }
+article .thirdSection img{
+<<<<<<< HEAD
+    max-width: 100%;
+}
 article .thirdSection div:{
+    float: left;
     position: absolute;
     max-width: 70%;
     margin-top: 10px;
