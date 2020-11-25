@@ -152,4 +152,6 @@ article .middle-section{
     max-width: 70%;
     margin: 30px auto 30px auto;
 }
->>>>>>> 7d584f3fa116c7c13b6210be40771223a27c3f2f
+.thirdSection img{
+    width: 100%;
+}
