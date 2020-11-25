@@ -10,6 +10,12 @@
 body {
     font-family: georgia,'times new roman',times,serif;
     background-color: #ffffff;
+    font-size: 18px;
+    line-height: 1;
+}
+body p{
+    font-size: 18px;
+    line-height: 1.8;
 }
 .container-nav {
     width: 100%;
@@ -71,6 +77,20 @@ nav .center-nav{
 .right-nav button:last-of-type {
     margin-right: 16px;
 }
+section a:first-of-type{
+    margin: 25px 0px;
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 0px;
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
 article .firstSection {
     width: 100%;
     display: flex;
@@ -81,6 +101,7 @@ article .firstSection {
     margin-bottom: 0px;
 }
 main .paraghs {
+    margin-top: 45px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -90,7 +111,7 @@ main .paraghs p{
     width: 50%;
 }
 article .secondSection, article .thirdSection{
-    margin: 40px auto;
+    margin: 16px auto 30px;
 }
 article .mainDiv{
     display: flex;
@@ -105,7 +126,10 @@ article .secondSection, article .thirdSection {
     /* align-self: center; */
     max-width: 70%;
 }
-article .thirdSection img{
+article .thirdSection{
+    position: relative;
+}
+article .thirdSection div:{
     position: absolute;
     max-width: 70%;
     margin-top: 10px;
@@ -128,3 +152,4 @@ article .middle-section{
     max-width: 70%;
     margin: 30px auto 30px auto;
 }
+>>>>>>> 7d584f3fa116c7c13b6210be40771223a27c3f2f
