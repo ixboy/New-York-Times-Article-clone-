@@ -251,6 +251,7 @@ main .paragraphs p{
 .icon {
     margin: 1rem auto 0px;
 }
+
 .flexBoxes {
     display: flex;
     flex-direction: row;
