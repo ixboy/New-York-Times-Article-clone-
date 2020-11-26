@@ -251,5 +251,27 @@ main .paragraphs p{
 .icon {
     margin: 1rem auto 0px;
 }
+<<<<<<< HEAD
 
 .newsLetters{}
+=======
+.flexBoxes {
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+.smallContainer div{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.smallContainer .insideContainers img, .smallContainer  div{
+    width: 400px;
+}
+.smallContainer .insideContainers img{
+    height: 300px;
+}
+.newsLetters{
+    margin-left: 40px;
+}
+>>>>>>> 9a316e302d764c1369a525e84ca1f709548b14b4
