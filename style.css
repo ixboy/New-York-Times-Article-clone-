@@ -197,7 +197,7 @@ main .paragraphs p{
     width: 8%;
     margin-bottom: .8rem;
 }
-.fourthSection, .midleDownSec{
+.fourthSection, .midleDownSec, .lastSection{
     margin: 10px auto;
     width: 50%;
 }
@@ -251,3 +251,5 @@ main .paragraphs p{
 .icon {
     margin: 1rem auto 0px;
 }
+
+.newsLetters
