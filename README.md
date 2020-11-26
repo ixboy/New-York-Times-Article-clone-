@@ -19,7 +19,7 @@ The purpose of these project it to create a similar looking website of a New Yor
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/widzthedvloper)
-- Twitter: [@twitterhandle](https://twitter.com/widzthedvloper
+- Twitter: [@twitterhandle](https://twitter.com/widzthedvloper)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/widzmarc-jean-nesly-phelle-252a26129/)
 
 👤 **Author2**
