@@ -273,5 +273,103 @@ main .paragraphs p{
 }
 .newsLetters{
     margin-left: 40px;
+    padding-top: 15px;
+    border-top: 5px solid black;
+    width: 1270px;
+}
+.right-aside{
+    width: 400px;
+    float: right;
+    margin-right: 40px;
+    border-top: 5px solid black;
+    padding-top: 15px;
+    margin-top: 0px;
+}
+.float-left{
+    float: left;
+}
+.riight-asde-container div{
+    border-top:1px solid lightgray;
+}
+.riight-asde-container div a{
+    text-decoration: none;
+    color: black;
+}
+.clear-aside{
+    clear: both;
+}
+.footer-left-section ul{
+    list-style-type: none;
+}
+.footer-left-section ul li a{
+    text-decoration: none;
+    color: black;
+}
+.footer-right-section .right{
+    list-style-type: none;
+}
+.footer-right-section ul li a{
+    text-decoration: none;
+    color: black;
+}
+.footer-left-section{
+    display: flex;
+    flex-direction: row;
+    float: left;
+}
+.footer-left-section div{
+    margin-right: 70px;
+}
+.footer-right-section ul li img{
+    width: 10px;
+}
+.footer-bottom-section{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+#footer-bottom-section ul li a{
+    text-decoration: none;
+}
+.footer-section-div{
+    border-top: 5px solid lightgray;
+    width: 70%;
+    margin: 70px auto 10px;
+    padding-top: 20px;
+}
+.footer-end{
+    text-align: center;
+}
+footer h4{
+    float: left;
+}
+footer .left-float-link{
+    float: right;
+    text-decoration: none;
+    font-size: 14px;
+}
+.footer-right-section{
+    width: 280px;
+    float: right;
+    margin-left: 10px;
+
+}
+.footer-left-section{
+    border-right: 1px solid lightgray;
+
+}
+.footer-bottom-section ul{
+    margin: 0 auto;
+    border-top: 1px solid lightgray;
+    padding-top: 16px;
+}
+.footer-bottom-section ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+.footer-bottom-section ul li a{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
 }
 >>>>>>> 9a316e302d764c1369a525e84ca1f709548b14b4
