@@ -23,6 +23,7 @@ body p{
     border-bottom: solid 1px #567b95;
     position: fixed;
     top: 0px;
+    z-index: 9;
 }
 nav .right-nav{
     display: inline;
@@ -83,6 +84,22 @@ section a:first-of-type{
     margin: auto;
     text-align: left;
 }
+article .firstSection{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+article .firstSection h1{
+    font-size: 2rem;
+    line-height: 3rem;
+    font-weight: 700;
+    font-style: italic;
+    width: 37.5rem;
+    padding: 0px 0px .5rem 1rem;
+}
 .logo{
     display: flex;
     justify-content: space-between;
@@ -91,16 +108,13 @@ section a:first-of-type{
     margin: auto;
     text-align: left;
 }
-article .firstSection {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin-top: 300px;
-    margin-bottom: 0px;
+.logo p{
+    font-size: .9rem;
+    line-height: 1rem;
+    font-weight: 500;
+    color: #333;
 }
-main .paraghs {
+main .paraghs{
     margin-top: 45px;
     display: flex;
     flex-direction: column;
@@ -109,19 +123,117 @@ main .paraghs {
 }
 main .paraghs p{
     width: 50%;
+    padding-bottom: 1.5rem;
 }
-article .secondSection, article .thirdSection{
-    margin: 16px auto 30px;
+.middle-section{
+    margin: 60px auto 10px;
+    width: 70%;
 }
-article .mainDiv{
-    display: flex;
-    flex-direction: column;
-    text-align: center;
+.middle-section p, .horizontal-rule p{
+    color: #949494;
+    font-size: 14px;
 }
-article .firstSection figure {
-    /* align-self: center; */
+.secondSection{
+    margin: 3rem auto 0px;
+}
+.secondSection p {
+    margin-left: 8rem;
+    margin-bottom: 1rem;
+}
+.secondSection a {
+    color: black;
+}
+.horizontal-rule, article .thirdSection{
+    margin: 1rem auto 2rem;
+}
+.thirdSection img, article img:first-child{
+    width: 100%;
+}
+/* global rule for all the sections */
+.horizontal-rule, .firstSection figure, .secondSection, .thirdSection {
     max-width: 70%;
 }
-article .secondSection, article .thirdSection {
-    max-width: 70%;
+.thirdSection{
+    position: relative;
+}
+.blockText{
+    position: absolute;
+    width: 23%;   
+}
+.blockText p{
+    font-size: .7rem;
+}
+.one{
+    top: 25%;
+}
+.two{
+    top: 25%;
+    left: 25%;
+}
+.three{
+    top: 25%;
+    right: 25%;
+}
+.four{
+    top: 25%;
+    right: 0%;
+}
+.five{
+    top: 75%;
+}
+.six{
+    top: 75%;
+    left: 25%;
+}
+.seven{
+    top: 75%;
+    right: 25%;
+}
+.eight{
+    top: 75%;
+    right: 0%;
+}
+.line{
+    width: 8%;
+    margin-bottom: .8rem;
+}
+.fourthSection{
+    margin: 10px auto;
+    width: 50%;
+}
+.fourthSection p{
+    padding-bottom: 1.5rem;
+}
+
+
+
+.figCaption{
+    font-size: .8rem;
+    line-height: 1.24rem;
+    color: #666;
+    margin-right: .5rem;
+}
+.author{
+    font-size: .8rem;
+    line-height: 1.24rem;
+    color: #888;
+    margin-right: .5rem;
+}
+.afterHr{
+}
+.afterHr button{
+    float: right;
+    margin-bottom: 2rem;
+    margin-right: 0px;
+
+}
+.afterHr p{
+    display: inline;
+    color:#333;
+    font-size: 1rem;
+}
+.afterHr::after{
+    content: "";
+    display: block;
+    clear: both;
 }
