@@ -5,12 +5,12 @@ This project is a clone of a the New York Times article
 
 The purpose of these project it to create a similar looking website of a New York Article using html and css
 
-BUILT WITH
+## BUILT WITH
 
-    *HTML
-    *CSS
+    -HTML
+    -CSS
 
-LIVE DEMO
+## LIVE DEMO
 
 [Live Demo Link](https://livedemo.com)
 
