@@ -17,10 +17,13 @@ The purpose of these project it to create a similar looking website of a New Yor
 ##  AUTHORS
 
 👤 **Author1**
+
 - GitHub: [@githubhandle](https://github.com/widzthedvloper)
 - Twitter: [@twitterhandle](https://twitter.com/widzthedvloper
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/widzmarc-jean-nesly-phelle-252a26129/)
-👤 **Author1**
+
+👤 **Author2**
+
 - GitHub: [@githubhandle](https://github.com/ixboy) 
 - Twitter: [@twitterhandle](https://twitter.com/ismaelixboy) 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ismael-antonio-0b7712114/) 
