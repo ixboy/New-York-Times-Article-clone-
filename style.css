@@ -123,39 +123,5 @@ article .firstSection figure {
     max-width: 70%;
 }
 article .secondSection, article .thirdSection {
-    /* align-self: center; */
     max-width: 70%;
-}
-article .thirdSection{
-    position: relative;
-}
-article .thirdSection img{
-    max-width: 100%;
-}
-article .thirdSection div:{
-    float: left;
-    position: absolute;
-    max-width: 70%;
-    margin-top: 10px;
-    margin: auto;
-    z-index: -1;
-    left: 0;
-    right: 0;
-}
-article .thirdSection{
-    display: flex;
-    flex-wrap: wrap;
-}
-.thirdSection div{
-    width: 240px;
-    margin-left: 50px;
-    margin-top: 220px;
-    position: relative;
-}
-article .middle-section{
-    max-width: 70%;
-    margin: 30px auto 30px auto;
-}
-.thirdSection img{
-    width: 100%;
 }
