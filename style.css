@@ -251,10 +251,6 @@ main .paragraphs p{
 .icon {
     margin: 1rem auto 0px;
 }
-<<<<<<< HEAD
-
-.newsLetters{}
-=======
 .flexBoxes {
     display: flex;
     flex-direction: row;
@@ -372,4 +368,3 @@ footer .left-float-link{
     color: black;
     margin-left: 10px;
 }
->>>>>>> 9a316e302d764c1369a525e84ca1f709548b14b4
