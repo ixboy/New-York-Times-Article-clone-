@@ -1,7 +1,7 @@
 # New-York-Times-Article-clone-
 This project is a clone of a the New York Times article
 
-![screenshot](imags/screenshot.png)
+![screenshot](images/screenshot.png)
 
 The purpose of these project it to create a similar looking website of a New York Article using html and css
 
