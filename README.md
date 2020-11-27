@@ -5,7 +5,7 @@ This project is a clone of a the New York Times article
 this website can be viewd better on the screen size of of 1920 X 1080 in Mozilla firefox browser.
 you can also download the repo and open the ''index.html" file with Mozilla Firefox.
 
-[screenshot](images/YorkTimes.png)
+![screenshot](images/YorkTimes.png)
 
 The purpose of these project it to create a similar looking website of a New York Article using html and css
 
