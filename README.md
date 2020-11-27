@@ -1,7 +1,11 @@
 # New-York-Times-Article-clone-
 This project is a clone of a the New York Times article
 
-![screenshot](images/screenshot.png)
+# Getting started :
+this website can be viewd better on the screen size of of 1920 X 1080 in Mozilla firefox browser.
+you can also download the repo and open the ''index.html" file with Mozilla Firefox.
+
+![screenshot](images/Space Ripples Reveal Big Bang’s Smoking Gun - The New York Times.png)
 
 The purpose of these project it to create a similar looking website of a New York Article using html and css
 
@@ -12,7 +16,7 @@ The purpose of these project it to create a similar looking website of a New Yor
 
 ## LIVE DEMO
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://ixboy.github.io/New-York-Times-Article-clone-/)
 
 ##  AUTHORS
 
