@@ -1,3 +1,34 @@
+@font-face {
+  font-family: cheltenham;
+  src: url("assets/fonts/cheltenham-italic-700.woff2");
+  font-style: italic;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: cheltenham;
+  src: url("assets/fonts/cheltenham-normal-700.woff"), url("assets/fonts/cheltenham-normal-700.woff2");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: cheltenham;
+  src: url("assets/fonts/cheltenham-normal-400.woff"), url("assets/fonts/cheltenham-normal-400.woff2");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: cheltenham-small;
+  src: url("assets/fonts/cheltenham-small-normal-400.woff");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: cheltenham;
+  src: url("assets/fonts/cheltenham-normal-500.woff"), url("assets/fonts/cheltenham-normal-500.woff2");
+  font-weight: 500;
+}
+
 body {
   font-family: georgia, 'times new roman', times, serif;
   background-color: #fff;
@@ -79,7 +110,7 @@ nav .left-nav a:last-of-type {
   padding-top: 8px;
   padding-left: 1rem;
   color: black;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: cheltenham, Arial, Helvetica, sans-serif;
   font-size: 14.25px;
   text-transform: uppercase;
   font-weight: 700;
@@ -102,7 +133,7 @@ nav .center-nav {
   border-radius: 3px;
   margin: 2px 1px 0.1px;
   padding: 11px 12px 8px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: cheltenham, Arial, Helvetica, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 11px;
@@ -123,7 +154,7 @@ nav .center-nav {
   margin: 1rem 3rem 1rem 0.1px;
   padding: 11px 2rem 8px;
   width: 50%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: cheltenham, Arial, Helvetica, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 1rem;
