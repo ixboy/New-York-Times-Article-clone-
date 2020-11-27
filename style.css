@@ -39,7 +39,6 @@ body {
 #nav-bar {
   position: fixed;
   top: 0;
-  z-index: 9;
 }
 
 body p {
@@ -213,7 +212,7 @@ main div p {
 }
 
 .logo img {
-  height: 30px;
+  height: 18px;
 }
 
 main .paragraphs {
