@@ -92,6 +92,11 @@ section a:first-of-type {
   color: black;
 }
 
+.parentBox p a {
+  text-decoration: none;
+  color: #000;
+}
+
 .footer-left-section ul li a {
   text-decoration: none;
   color: black;
@@ -283,6 +288,11 @@ main .paragraphs p {
   margin: 1rem auto 2rem;
 }
 
+.box img {
+  max-width: 100%;
+  height: auto;
+}
+
 .thirdSection img,
 .article img:first-child {
   width: 100%;
@@ -399,7 +409,8 @@ main .paragraphs p {
   padding-top: 15px;
   width: 1270px;
 }
-.newsLetters header{
+
+.newsLetters header {
   display: flex;
   justify-content: space-between;
   width: 70%;
@@ -445,11 +456,14 @@ main .paragraphs p {
   flex-direction: row;
   float: left;
   border-right: 1px solid lightgray;
-  width: 80%;
+  width: 75%;
+  position: relative;
 }
 
 .footer-left-section div {
-  margin-right: 70px;
+  display: flex;
+  flex-direction: column;
+  width: 30%;
 }
 
 .footer-bottom-section {
@@ -484,7 +498,7 @@ footer .left-float-link {
 }
 
 .footer-right-section {
-  width: 200px;
+  width: 20%;
   float: right;
   margin-left: 10px;
 }
@@ -504,40 +518,34 @@ iframe {
   width: 100%;
   height: 315px;
 }
-/* more in space and astronomy part */
-.parentBox *{
-  margin: 0px;
-  padding: 0px;
 
+.parentBox * {
+  margin: 0.1px;
+  padding: 0.1px;
 }
-.parentBox{
+
+.parentBox {
   margin: 1rem 0 1rem 5px;
   float: left;
   border-top: 1px solid black;
 }
-.parentBox h3, 
-.newsLetters header h3{
+
+.parentBox h3,
+.newsLetters header h3 {
   font-size: 1rem;
-  margin: 1rem .2rem;
+  margin: 1rem 0.2rem;
 }
-.parentBox p a{
-  text-decoration: none;
-  color: #000;
-}
-.box{
-  float:left;
-  margin-right:15px;
+
+.box {
+  float: left;
+  margin-right: 15px;
   margin-bottom: 2.5rem;
   width: 31%;
   height: auto;
 }
-.box img{
-  max-width: 100%;
-  height: auto;
-}
 
-.parentBox .firstP{
-  padding: 0px;
-  margin: 0px;
+.parentBox .firstP {
+  padding: 0.1px;
+  margin: 0.1px;
   text-align: end;
 }
