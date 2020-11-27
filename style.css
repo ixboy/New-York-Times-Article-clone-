@@ -498,3 +498,35 @@ iframe {
   width: 100%;
   height: 315px;
 }
+/* more in space and astronomy part */
+.parentBox *{
+  margin: 0px;
+  padding: 0px;
+
+}
+.box{
+  float:left;
+  margin-right:10px;
+  width: 30%;
+  height: auto;
+}
+.box img{
+  max-width: 100%;
+  height: auto;
+}
+.five{
+  background-color: brown;
+}
+.one{
+  background-color: red;
+}
+.two{
+  background-color: blue;
+}
+.three{
+  background-color: green;
+}
+.four{
+  background-color: orange;
+}
+
