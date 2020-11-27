@@ -240,7 +240,7 @@ main .paragraphs {
 
 .author,
 .midleDownSec p {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   line-height: 1.24rem;
   color: #888;
   margin-right: 0.5rem;
@@ -389,7 +389,7 @@ main .paragraphs p {
 }
 
 .smallContainer .insideContainers img {
-  width: 33%;
+  width: 25%;
   height: auto;
 }
 
@@ -398,19 +398,24 @@ main .paragraphs p {
   padding-top: 15px;
   width: 1270px;
 }
+.newsLetters header{
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+}
 
 .right-aside {
   width: 25%;
   float: right;
   margin-right: 40px;
-  border-top: 5px solid black;
+  border-top: 1px solid black;
   padding-top: 15px;
   margin-top: 0.1px;
 }
 
 .float-left {
   float: left;
-  border-top: 5px solid black;
+  border-top: 1px solid black;
   width: 70%;
 }
 
@@ -457,7 +462,7 @@ main .paragraphs p {
 }
 
 .footer-section-div {
-  border-top: 5px solid lightgray;
+  border-top: 1px solid lightgray;
   width: 70%;
   margin: 70px auto 10px;
   padding-top: 20px;
@@ -504,29 +509,34 @@ iframe {
   padding: 0px;
 
 }
+.parentBox{
+  margin: 1rem 0 1rem 5px;
+  float: left;
+  border-top: 1px solid black;
+}
+.parentBox h3, 
+.newsLetters header h3{
+  font-size: 1rem;
+  margin: 1rem .2rem;
+}
+.parentBox p a{
+  text-decoration: none;
+  color: #000;
+}
 .box{
   float:left;
-  margin-right:10px;
-  width: 30%;
+  margin-right:15px;
+  margin-bottom: 2.5rem;
+  width: 31%;
   height: auto;
 }
 .box img{
   max-width: 100%;
   height: auto;
 }
-.five{
-  background-color: brown;
-}
-.one{
-  background-color: red;
-}
-.two{
-  background-color: blue;
-}
-.three{
-  background-color: green;
-}
-.four{
-  background-color: orange;
-}
 
+.parentBox .firstP{
+  padding: 0px;
+  margin: 0px;
+  text-align: end;
+}
