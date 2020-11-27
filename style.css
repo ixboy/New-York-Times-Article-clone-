@@ -1,31 +1,31 @@
 @font-face {
   font-family: cheltenham;
-  src: url("assets/fonts/cheltenham-italic-700.woff2");
+  src: url("fonts/cheltenham-italic-700.woff2");
   font-style: italic;
   font-weight: 700;
 }
 
 @font-face {
   font-family: cheltenham;
-  src: url("assets/fonts/cheltenham-normal-700.woff"), url("assets/fonts/cheltenham-normal-700.woff2");
+  src: url("fonts/cheltenham-normal-700.woff"), url("assets/fonts/cheltenham-normal-700.woff2");
   font-weight: 700;
 }
 
 @font-face {
   font-family: cheltenham;
-  src: url("assets/fonts/cheltenham-normal-400.woff"), url("assets/fonts/cheltenham-normal-400.woff2");
+  src: url("fonts/cheltenham-normal-400.woff"), url("assets/fonts/cheltenham-normal-400.woff2");
   font-weight: 400;
 }
 
 @font-face {
   font-family: cheltenham-small;
-  src: url("assets/fonts/cheltenham-small-normal-400.woff");
+  src: url("fonts/cheltenham-small-normal-400.woff");
   font-weight: 400;
 }
 
 @font-face {
   font-family: cheltenham;
-  src: url("assets/fonts/cheltenham-normal-500.woff"), url("assets/fonts/cheltenham-normal-500.woff2");
+  src: url("fonts/cheltenham-normal-500.woff"), url("assets/fonts/cheltenham-normal-500.woff2");
   font-weight: 500;
 }
 
