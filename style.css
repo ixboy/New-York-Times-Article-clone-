@@ -44,6 +44,7 @@ body {
 body p {
   font-size: 18px;
   line-height: 1.8;
+  margin: 10px;
 }
 
 .container-nav {
@@ -192,11 +193,26 @@ nav .center-nav {
   text-align: left;
 }
 
+main div p {
+  margin: 0.5px;
+  padding: 0.5px;
+}
+
+.fourthSection p {
+  margin: 0.5px;
+  padding: 0.5px;
+  padding-bottom: 1.5rem;
+}
+
 .logo p {
   font-size: 0.9rem;
   line-height: 1rem;
   font-weight: 500;
   color: #333;
+}
+
+.logo img {
+  height: 30px;
 }
 
 main .paragraphs {
@@ -220,10 +236,6 @@ main .paragraphs {
 
 .blockText p {
   font-size: 0.7rem;
-}
-
-.fourthSection p {
-  padding-bottom: 1.5rem;
 }
 
 .author,
@@ -350,33 +362,45 @@ main .paragraphs p {
 .flexBoxes {
   display: flex;
   flex-direction: row;
-  margin-left: 20px;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.smallContainer {
+  width: 32%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  border: 1px dotted lightgray;
+}
+
+.smallContainer:hover {
+  box-shadow: 1px 1px 15px lightgray;
 }
 
 .smallContainer div {
-  margin-left: 20px;
   margin-right: 20px;
-  margin-top: 20px;
+  width: 100%;
 }
 
-.smallContainer .insideContainers img,
-.smallContainer div {
-  width: 400px;
+.insideContainers {
+  width: 100%;
 }
 
 .smallContainer .insideContainers img {
-  height: 300px;
+  width: 33%;
+  height: auto;
 }
 
 .newsLetters {
-  margin-left: 40px;
+  margin-left: 20px;
   padding-top: 15px;
-  border-top: 5px solid black;
   width: 1270px;
 }
 
 .right-aside {
-  width: 400px;
+  width: 25%;
   float: right;
   margin-right: 40px;
   border-top: 5px solid black;
@@ -386,6 +410,8 @@ main .paragraphs p {
 
 .float-left {
   float: left;
+  border-top: 5px solid black;
+  width: 70%;
 }
 
 .riight-asde-container div {
