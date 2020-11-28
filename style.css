@@ -548,3 +548,71 @@ iframe {
   margin: 0.1px;
   text-align: end;
 }
+#line1{
+  border-bottom:lightgray solid 1px;
+  padding-bottom: 3px;
+  width: 100px;
+  height: 10%;
+}
+
+
+.centerFlex img {
+  max-width: 13rem;
+}
+.bottom5 img{
+  max-width: 14px;
+}
+.centerFlex{
+  display: block;
+  border-top: lightgray double 5px;
+}
+.flexB{
+  margin-top: 10px;
+  display: flex;
+  max-width: 90%;
+  justify-content: space-between;
+  max-width: 10px auto;
+}
+.flexB section li a,
+.flexB div ul a{
+  text-decoration: none;
+  font-weight: 500;
+  color: black;
+  font-size: .8rem;
+  text-transform: capitalize;
+  height: 1.4rem;
+  width: 10rem;
+  line-height: 1rem;
+}
+.flexB section ul,
+.flexB div ul{
+  list-style: none;
+}
+.flexB div ul #mrk {
+  display: inline-block
+  font-size: 1rem;
+  width: 150px;
+  font-weight: 700;
+  height: 25px;
+  line-height: .9rem;
+}
+.footers h3{
+  font-size: 12px;
+  text-align: center;
+} 
+.flexB div .bottom5{
+  border-left: black 2px solid;
+}
+.flexB div{
+  display: flex;
+  flex-direction: column;
+  border-left: solid 1px rgb(211, 211, 211);
+}
+
+.aligneleft{
+  float: right;
+  font-weight: 500;
+  line-height: 11px;
+  font-size: .9rem; 
+  color:#2a5d85;
+}
