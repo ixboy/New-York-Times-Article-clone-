@@ -558,7 +558,6 @@ iframe {
 
 .centerFlex img {
   max-width: 9rem;
-  padding: .9rem .9rem;
 }
 .bottom5 img {
   max-width: 14px;
@@ -616,7 +615,9 @@ iframe {
   line-height: 11px;
   font-size: .9rem; 
   color:#2a5d85;
-  padding-top: 34px; ;
+  padding-right: 350px;
+  padding-top: 20px;
+
 }
 
 footer-bottom6 div ul li{
