@@ -441,11 +441,12 @@ main .paragraphs p {
   width: 25%;
   height: auto;
   float: left;
-  margin-right: 50%;
 }
 
 .smallContainer .insideContainers .plus-sign {
   width: 20px;
+  font-size: 24px;
+  font-weight: bold;
   text-align: center;
   float: right;
   border-radius: 50%;
@@ -460,19 +461,19 @@ main .paragraphs p {
 .newsLetters {
   margin-left: 20px;
   padding-top: 15px;
-  width: 1270px;
+  width: 100%;
 }
 
 .newsLetters header {
   display: flex;
   justify-content: space-between;
-  width: 70%;
+  width: 58%;
 }
 
 .right-aside {
-  width: 25%;
+  width: 18%;
   float: right;
-  margin-right: 40px;
+  margin-right: 10%;
   border-top: 1px solid black;
   padding-top: 15px;
   margin-top: 0.1px;
@@ -481,7 +482,8 @@ main .paragraphs p {
 .float-left {
   float: left;
   border-top: 1px solid black;
-  width: 70%;
+  width: 60%;
+  margin-left: 10%;
 }
 
 .riight-asde-container div {
@@ -598,7 +600,7 @@ iframe {
   float: left;
   margin-right: 15px;
   margin-bottom: 2.5rem;
-  width: 31%;
+  width: 25%;
   height: auto;
 }
 
@@ -619,6 +621,9 @@ iframe {
   display: block;
   border-top: lightgray double 5px;
   border-bottom: lightgray solid 1px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .flexB {
