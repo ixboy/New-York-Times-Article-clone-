@@ -322,7 +322,8 @@ main .paragraphs p {
 }
 
 .centerFlex img {
-  max-width: 9rem;
+  margin-top: 10px;
+  max-width: 30%;
 }
 
 .bottom5 img {
@@ -597,15 +598,20 @@ iframe {
   margin: 1rem 0.2rem;
 }
 
+.parentBox div {
+  width: 32%;
+  box-sizing: content-box;
+  padding-left: 6.8px;
+}
+
 .box {
   float: left;
-  margin-right: 15px;
   margin-bottom: 2.5rem;
   width: 25%;
   height: auto;
 }
 
-.parentBox .firstP {
+.parentBox .firstP15 {
   padding: 0.1px;
   margin: 0.1px;
   text-align: end;
@@ -667,8 +673,9 @@ iframe {
   line-height: 11px;
   font-size: 0.9rem;
   color: #2a5d85;
-  padding-right: 350px;
+  padding-right: 20px;
   padding-top: 20px;
+  text-decoration: none;
 }
 
 .footer-bottom6 {
