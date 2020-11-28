@@ -619,8 +619,18 @@ iframe {
   padding-top: 20px;
 
 }
-
-footer-bottom6 div ul li{
+.footer-bottom6 ul{
   display: flex;
-
+  flex-direction: row;
+  justify-content: center;
+  font-size: 12px;
+  text-align: center;
+  width: auto;
+  height: auto;
+}
+.footer-bottom6 ul a{
+  text-decoration: none;
+}
+.footer-bottom6 ul{
+  list-style: none;
 }
