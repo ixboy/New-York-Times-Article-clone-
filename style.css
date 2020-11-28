@@ -565,6 +565,7 @@ iframe {
 .centerFlex{
   display: block;
   border-top: lightgray double 5px;
+  border-bottom: lightgray solid 1px;
 }
 .flexB{
   margin-top: 10px;
@@ -587,6 +588,12 @@ iframe {
 .flexB section ul,
 .flexB div ul{
   list-style: none;
+}
+.flexB section li a:hover{
+  border-bottom: 1px solid black;
+}
+.flexB div ul a:hover{
+  border-bottom: 1px solid black;
 }
 .flexB div ul #mrk {
   display: inline-block
@@ -619,10 +626,15 @@ iframe {
   padding-top: 20px;
 
 }
+.footer-bottom6{
+  border-bottom: black solid 1px;
+  padding: 15px 50px;
+
+}
 .footer-bottom6 ul{
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-around;
   font-size: 12px;
   text-align: center;
   width: auto;
@@ -630,7 +642,14 @@ iframe {
 }
 .footer-bottom6 ul a{
   text-decoration: none;
+  color: gray
 }
 .footer-bottom6 ul{
   list-style: none;
+}
+.footer-bottom6 ul a:hover{
+  border-bottom: 1px solid gray;
+}
+.lastone{
+  font-size: 1rem;
 }
