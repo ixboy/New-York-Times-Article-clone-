@@ -1,5 +1,5 @@
-# New-York-Times-Article-clone-
-This project is a clone of a the New York Times article
+## New-York-Times-Article-clone-
+# This Page is a clone of a the New York Times article
 
 # Getting started :
 this website can be viewd better on the screen size of of 1920 X 1080 in Mozilla firefox browser.
@@ -8,6 +8,15 @@ you can also download the repo and open the ''index.html" file with Mozilla Fire
 ![screenshot](images/YorkTimes.png)
 
 The purpose of these project it to create a similar looking website of a New York Article using html and css
+
+
+To visit the page go to the [Live Demo Link](https://ixboy.github.io/New-York-Times-Article-clone-/)
+
+# Prerequisites :
+
+ 1- An internet browser
+ 2- A computer
+    
 
 ## BUILT WITH
 
@@ -22,18 +31,26 @@ The purpose of these project it to create a similar looking website of a New Yor
 
 👤 **Widzmarc Jean Nesly Phelle**
 
-- GitHub: [@githubhandle](https://github.com/widzthedvloper)
-- Twitter: [@twitterhandle](https://twitter.com/widzthedvloper)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/widzmarc-jean-nesly-phelle-252a26129/)
+- GitHub: [@widzthedvloper](https://github.com/widzthedvloper)
+- Twitter: [@widzthedvloper](https://twitter.com/widzthedvloper)
+- LinkedIn: [widzthedvloper](https://www.linkedin.com/in/widzmarc-jean-nesly-phelle-252a26129/)
 
-👤 **Ismael Antonio**
+👤 ** Iyunda Ismael Antonio**
 
-- GitHub: [@githubhandle](https://github.com/ixboy)
-- Twitter: [@twitterhandle](https://twitter.com/ismaelixboy)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ismael-antonio-0b7712114/)
+- GitHub: [@ixboy](https://github.com/ixboy)
+- Twitter: [@ismaelixboy](https://twitter.com/ismaelixboy)
+- LinkedIn: [Ismael Antonio](https://www.linkedin.com/in/ismael-antonio-0b7712114/)
 
 ## SHOW YOUR SUPPORT
-Give a * if you like the project
 
-## 📝 LICENSE
-This project as no license
+Give a \* if you like the project
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page. Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 Licensed MIT
