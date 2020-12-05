@@ -20,13 +20,13 @@ The purpose of these project it to create a similar looking website of a New Yor
 
 ##  AUTHORS
 
-👤 **Author1**
+👤 **Widzmarc Jean Nesly Phelle**
 
 - GitHub: [@githubhandle](https://github.com/widzthedvloper)
 - Twitter: [@twitterhandle](https://twitter.com/widzthedvloper)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/widzmarc-jean-nesly-phelle-252a26129/)
 
-👤 **Author2**
+👤 **Ismael Antonio**
 
 - GitHub: [@githubhandle](https://github.com/ixboy)
 - Twitter: [@twitterhandle](https://twitter.com/ismaelixboy)
