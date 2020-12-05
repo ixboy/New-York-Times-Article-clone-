@@ -15,7 +15,7 @@ To visit the page go to the [Live Demo Link](https://ixboy.github.io/New-York-Ti
 
 # Prerequisites :
 
-1- a Computer.
+1- A Computer.
 
 2 - An internet browser.
 
@@ -44,7 +44,7 @@ To visit the page go to the [Live Demo Link](https://ixboy.github.io/New-York-Ti
 
 ## SHOW YOUR SUPPORT
 
-**Give a \* if you like the project**
+**Give a ⭐️ if you like this project!**
 
 ## 🤝 Contributing
 
