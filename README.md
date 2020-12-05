@@ -1,5 +1,6 @@
 # New-York-Times-Article-clone-
-# This Page is a clone of a the New York Times article
+
+**This Page is a clone of a the New York Times article**
 
 # Getting started :
 this webpage can be viewed better on the screen size of 1920 X 1080 in Mozilla firefox browser.
@@ -14,9 +15,9 @@ To visit the page go to the [Live Demo Link](https://ixboy.github.io/New-York-Ti
 
 # Prerequisites :
 
- 1- An internet browser
- 2- A computer
-    
+1- a Computer.
+
+2 - An internet browser.
 
 ## BUILT WITH
 
@@ -35,7 +36,7 @@ To visit the page go to the [Live Demo Link](https://ixboy.github.io/New-York-Ti
 - Twitter: [@widzthedvloper](https://twitter.com/widzthedvloper)
 - LinkedIn: [widzthedvloper](https://www.linkedin.com/in/widzmarc-jean-nesly-phelle-252a26129/)
 
-👤 ** Iyunda Ismael Antonio**
+👤 **Iyunda Ismael Antonio**
 
 - GitHub: [@ixboy](https://github.com/ixboy)
 - Twitter: [@ismaelixboy](https://twitter.com/ismaelixboy)
@@ -43,7 +44,7 @@ To visit the page go to the [Live Demo Link](https://ixboy.github.io/New-York-Ti
 
 ## SHOW YOUR SUPPORT
 
-Give a \* if you like the project
+**Give a \* if you like the project**
 
 ## 🤝 Contributing
 
