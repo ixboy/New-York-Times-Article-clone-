@@ -1,13 +1,13 @@
-## New-York-Times-Article-clone-
+# New-York-Times-Article-clone-
 # This Page is a clone of a the New York Times article
 
 # Getting started :
-this website can be viewd better on the screen size of of 1920 X 1080 in Mozilla firefox browser.
-you can also download the repo and open the ''index.html" file with Mozilla Firefox.
+this webpage can be viewed better on the screen size of 1920 X 1080 in Mozilla firefox browser.
+you can also download the repo and open the "index.html" file with Mozilla Firefox or Google Chrome.
 
 ![screenshot](images/YorkTimes.png)
 
-The purpose of these project it to create a similar looking website of a New York Article using html and css
+The purpose of this project is to create a similar looking webpage like the New York Times Article webpage, using pure HTML & CSS.
 
 
 To visit the page go to the [Live Demo Link](https://ixboy.github.io/New-York-Times-Article-clone-/)
