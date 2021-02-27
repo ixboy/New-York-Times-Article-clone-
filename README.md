@@ -40,7 +40,7 @@ To visit the page go to the [Live Demo Link](https://ixboy.github.io/New-York-Ti
 
 - GitHub: [@ixboy](https://github.com/ixboy)
 - Twitter: [@ismaelixboy](https://twitter.com/ismaelixboy)
-- LinkedIn: [Ismael Antonio](https://www.linkedin.com/in/ismael-antonio-0b7712114/)
+- LinkedIn: [ismael-antonio](https://www.linkedin.com/in/ismaelantonio/)
 
 ## SHOW YOUR SUPPORT
 
